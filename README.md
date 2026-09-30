@@ -1,3 +1,42 @@
+## Featured Project
+
+### Personal Finance Manager
+
+A terminal-based personal finance management application built in C that allows users to track income and expenses, manage a monthly budget, analyze spending habits, and permanently save financial data between sessions.
+
+#### Features
+
+- Add income and expense transactions
+- Assign expenses to spending categories
+- View complete transaction history
+- Financial dashboard with income, expenses, and balance
+- Monthly budget tracking
+- Budget usage and overspending warnings
+- Category-based spending analytics
+- Search transactions by description
+- Edit existing transactions
+- Delete transactions with confirmation
+- Sort transactions by amount
+- Calculate savings rate
+- Identify largest expenses
+- Validate user input and dates
+- Save and reload transaction data using file I/O
+
+#### C Concepts Demonstrated
+
+- Structures (`struct`)
+- Functions
+- Arrays
+- Pointers
+- Strings
+- Loops and conditional logic
+- Searching and sorting algorithms
+- File I/O
+- Input validation
+- Data persistence
+
+**Source:** [`finance_manager.c`](finance_manager.c)
+
 # C Programming Projects
 
 A collection of C programming projects developed while building my foundation in computer science and software development.
